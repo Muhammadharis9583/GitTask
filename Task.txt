@@ -1,2 +1,5 @@
 hello
+<<<<<<< HEAD
 yes how can i help you?
+=======
+>>>>>>> parent of 76ac236 (Revert "Revert "hi" Again ")

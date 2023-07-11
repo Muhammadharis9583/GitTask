@@ -1,5 +1,1 @@
-hello
-<<<<<<< HEAD 
-any issue sir=======
-yes how can i help you?
->>>>>>> parent of f6726d7 (Revert "Revert Again "")
+hello brother!

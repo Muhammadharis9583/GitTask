@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 hello
-=======
-hi
-hello
->>>>>>> parent of a0ccdc5 (Revert "hi")
+yes how can i help you?
